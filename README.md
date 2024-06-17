@@ -9,7 +9,7 @@ npm v.10.5.0
 playwritght v1.17.132
 
 
-git clone:
+git clone: https://github.com/natpaula93/parodify-playwright.git
 
 
 Execução dos testes 
