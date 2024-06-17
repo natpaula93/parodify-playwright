@@ -1,6 +1,7 @@
 # parodify-playwright
 Teste com playwright no clone do spotify utilizando playwright e type script
 
+Execução de start e pause de música
 
 Requisitos: 
 
